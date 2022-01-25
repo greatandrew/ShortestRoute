@@ -1,6 +1,6 @@
 # The task description
 There are n cities, and for any cities u,v (u does not equal to v) , there are exactly one road which connect u and v.  
-Obviously, there are n(n-1)/2 roads. Of course, the distance of these roads are not same.  
+Obviously, there are n(n-1)/2 roads. Of course, the distances among these roads are not same.  
 You are given the n, and the distances of the roads. You need to find the shortest route, which has a length of n, and each city occured exactly one time in the route.  
 The distance of the route is the time you need to take to visit the cities in order.  
 
